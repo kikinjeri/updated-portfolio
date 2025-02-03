@@ -1,0 +1,53 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    
+    background-color: #f0f0f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(36, 31, 31);
+    }
+
+.header{
+    background-color: darkgrey; 
+    margin: 0px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px 10px;
+}
+
+
+.header h1{
+    font-weight: bolder;
+    font-size: 35px;
+    color: rgb(36, 31, 31);
+    margin: 10px 10px;
+    padding: 10px 10px;
+    display: inline; 
+} 
+
+.header nav{
+    float: right; 
+    margin: 7px 0;
+}
+header nav ul li{
+    display: inline;
+    
+}
+
+.footer{
+    background-color: darkgrey;
+    color:rgb(36, 31, 31);
+    padding: 10px 5px;
+    
+}
+
+
+    
+
+
